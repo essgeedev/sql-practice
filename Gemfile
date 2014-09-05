@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'haml'
 gem 'hirb'
+gem 'awesome_print'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
