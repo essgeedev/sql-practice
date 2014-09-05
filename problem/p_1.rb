@@ -1,3 +1,4 @@
+# problem
 p %q(1. Show the population of Germany)
 puts
 p 'rails way'
@@ -8,4 +9,8 @@ puts
 p 'sql way'
 p %q(SELECT population FROM country)
 p %q(  WHERE name = 'Germany')
+puts
+
+# solution
+p %q(population = 80716000)
 puts
